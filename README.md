@@ -7,8 +7,7 @@
 
 ## 🚀 About Me
 🔹 Backend & AI Integration Enthusiast with experience in **API systems, authentication workflows, and cloud deployments**.  
-🔹 Passionate about **building intelligent applications** that connect backend systems with **AI/LLM-powered workflows**.  
-🔹 Currently pursuing **Computer Science (Dual Degree)** with a **9+ CGPA**.  
+🔹 Passionate about **building intelligent applications** that connect backend systems with **AI/LLM-powered workflows**.   
 
 ---
 
