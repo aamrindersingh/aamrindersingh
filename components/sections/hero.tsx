@@ -147,7 +147,11 @@ export function Hero() {
             <Button size="lg" onClick={scrollToContact}>
               Contact Me
             </Button>
-            <Button size="lg" variant="outline">
+            <Button 
+              size="lg" 
+              variant="outline"
+              onClick={() => window.open('/resume.pdf', '_blank')}
+            >
               <Download className="mr-2 h-5 w-5" />
               Download Resume
             </Button>

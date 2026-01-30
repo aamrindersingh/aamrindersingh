@@ -22,9 +22,9 @@ export function Contact() {
     // Simulate form submission
     await new Promise((resolve) => setTimeout(resolve, 1000));
 
-    // For now, just open email client
+    // Open email client in a new window
     const mailtoLink = `mailto:${personalInfo.email}?subject=Message from ${formData.name}&body=${formData.message}`;
-    window.location.href = mailtoLink;
+    window.open(mailtoLink, '_blank');
 
     setIsSubmitting(false);
     setFormData({ name: "", email: "", message: "" });
