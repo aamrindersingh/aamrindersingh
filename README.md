@@ -6,10 +6,10 @@
 ---
 
 ## About Me
-- **SDE Intern @ InterviewBit** — backend architecture, performance bottlenecks, scalable systems
-- Into systems programming, backend APIs, and understanding how things work under the hood
-- Contributing to open source when something catches my interest
-- Based in India (IST, UTC+5:30)
+- SDE Intern at InterviewBit, working on backend architecture and performance stuff
+- I like building things that actually work at scale, APIs, infra, system-level code
+- Been getting into open source lately, currently contributing to a couple of projects
+- From India
 
 ---
 
@@ -58,29 +58,37 @@
 
 ---
 
-## Featured Projects
+## Projects
 
-**[Nutri Scanner](https://nutriscanner-frontend-1.onrender.com/)** — AI-powered nutrition chatbot with barcode scanning and RAG pipelines
+**[TravelSync](https://travelsync.space)** - group travel planning app, real-time itinerary sync and collaboration
 
-**College Management System** — API-driven system with auth workflows and transport tracking
+**[Nutri Scanner](https://nutriscanner-frontend-1.onrender.com/)** - nutrition chatbot with barcode scanning, built with RAG pipelines
+
+**College Management System** - full backend with auth, transport tracking, API-driven internal tool
 
 ---
 
 ## Open Source
 
-Contributing to [**Libreswan**](https://github.com/libreswan/libreswan) — IPsec/IKE implementation for Linux and BSD. Working on kernel interface code (XFRM netlink), error reporting, and config parsing. [PRs](https://github.com/libreswan/libreswan/pulls?q=is%3Apr+author%3Aaamrindersingh)
+**[Libreswan](https://github.com/libreswan/libreswan)** - IPsec/IKE daemon for Linux and BSD. Picked this up because I wanted to understand how VPNs actually work at the kernel level. Been working on XFRM netlink error reporting, config parsing fixes, and logging improvements.
+- [#2627](https://github.com/libreswan/libreswan/pull/2627) log digital signature algorithm in IKE_AUTH (merged)
+- [#2636](https://github.com/libreswan/libreswan/pull/2636) fix ignore-peer-dns config, broken since 5.0 (merged)
+- [#2651](https://github.com/libreswan/libreswan/pull/2651) include selectors in XFRM policy error messages
+- [#2649](https://github.com/libreswan/libreswan/pull/2649) make hold an alias for drop in negotiationshunt
+
+Always looking for more projects to contribute to. If you have something interesting in C or systems space, hit me up.
 
 ---
 
 ## Experience
 
-**Software Developer Intern — InterviewBit** *(Nov 2025 – Present)*
-- Backend architecture, evaluation pipelines, internal tooling
-- Performance optimization and scalable API design
+**SDE Intern, InterviewBit** *(Nov 2025 – Present)*
+- Backend systems, evaluation pipelines, internal tooling
+- Performance work and API design
 
-**Frontend Engineer — Innovation Lab** *(Jun 2025 – Aug 2025)*
-- API integrations, AI-powered chatbot workflows
-- Cloud deployments (Render, Neon), real-time data pipelines
+**Frontend Engineer, Innovation Lab** *(Jun – Aug 2025)*
+- API integrations, chatbot workflows with ML endpoints
+- Deployments on Render, Neon, handled real-time data pipelines
 
 ---
 
