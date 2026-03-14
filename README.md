@@ -9,7 +9,6 @@
 - SDE Intern at InterviewBit, working on backend architecture and performance stuff
 - I like building things that actually work at scale, APIs, infra, system-level code
 - Been getting into open source lately, currently contributing to a couple of projects
-- From India
 
 ---
 
