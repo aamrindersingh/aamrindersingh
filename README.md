@@ -81,7 +81,7 @@ Always looking for more projects to contribute to. If you have something interes
 
 ## Experience
 
-**SDE Intern, InterviewBit** *(Nov 2025 – March 2026)*
+**SDE Intern, Scaler AI Labs** *(Nov 2025 – March 2026)*
 - Backend systems, evaluation pipelines, internal tooling
 - Performance work and API design
 
